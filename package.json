@@ -1,5 +1,5 @@
 {
-   "name": "BlindJS",
+   "name": "brackets-blindjs",
    "version": "0.1.1",
    "description": "BlindJS is a Javascript library that allows blind typing of pre-defined code. So stop worrying about writing valid code and start typing fast as hell!",
    "keywords": [
