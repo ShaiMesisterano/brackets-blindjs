@@ -27,7 +27,7 @@
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/ShaiMesisterano/BlindJS.git" 
+           "url": "https://github.com/ShaiMesisterano/brackets-blindjs.git" 
        } 
    ]
 }
