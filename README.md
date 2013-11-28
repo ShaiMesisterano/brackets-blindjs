@@ -6,8 +6,8 @@ BlindJS is a Javascript library that replaces content with pre-defined code in y
 
 Usage
 =====
-**Ctrl-Alt-B** * enables blind typing of your pre-defined code.<br />
-* Alternative: Go to "Edit > Enable BlindJS".
+**Ctrl-Alt-B** enables blind typing of your pre-defined code.<br />
+(Alternative: Go to "Edit > Enable BlindJS").
 
 For Example
 ===========
@@ -18,9 +18,8 @@ function myFunc () {
 }
 ``
 
-will be typed even if your typing random characters:
+will be displayed even if you typed <u>random characters</u>:
 
 ``
-blablabl blabla blab
-b
+blablabl blabla blab b
 ``
